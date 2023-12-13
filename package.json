@@ -1,0 +1,30 @@
+{
+  "name": "pizza-wizza-food-dec-2023",
+  "version": "1.0.0",
+  "description": "pizza food website",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SIDDHI-RANE/Pizza-Wizza-Food_Dec23.git"
+  },
+  "keywords": [
+    "require",
+    "log",
+    "console",
+    "const",
+    "var",
+    "let",
+    "req",
+    "res",
+    "status"
+  ],
+  "author": "siddhi rane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SIDDHI-RANE/Pizza-Wizza-Food_Dec23/issues"
+  },
+  "homepage": "https://github.com/SIDDHI-RANE/Pizza-Wizza-Food_Dec23#readme"
+}
